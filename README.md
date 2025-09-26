@@ -1,5 +1,5 @@
-# Hey 👋, I'm Jiabao Wang!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
-<b>You are my <img src="https://profile-counter.glitch.me/SpongeBob0318/count.svg" alt="Visitor Count">th visitor😇</b>
+## Hey 👋, I'm Jiabao Wang!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
+
 
 <img src="https://img.shields.io/github/followers/SpongeBob0318?logo=github&label=Followers"> 
 
@@ -12,7 +12,9 @@
 
 - 👀 I'm interested in photography, cycling, and badminton
 
-- ⚡ Keep progressing  
+- 👨‍🔬 [ISFP](https://www.16personalities.com/infj-personality) personality
+
+- ⚡  Java & Python & C++ & Java & Go
 
 
 </td><td valign="top" width="50%">
