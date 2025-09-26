@@ -14,7 +14,7 @@
 
 - 👨‍🔬 [ISFP](https://www.16personalities.com/isfp-personality) personality
 
-- ⚡  Java & Python & C++ & Java & Go
+- ⚡  Java & Python & C++ & Go
 
 
 </td><td valign="center" width="50%">
