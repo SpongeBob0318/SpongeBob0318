@@ -1,18 +1,27 @@
-## Hi there 👋
+# Hey 👋, I'm Jiabao Wang!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Nice to see you!
+<b>You are my ![Visitor Count](https://profile-counter.glitch.me/SpongeBob0318/count.svg)th visitor😇</b>
 
-<!--
-**SpongeBob0318/SpongeBob0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/github/followers/SpongeBob0318?logo=github&label=Followers"> [![Steam]
 
-Here are some ideas to get you started:
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBob0318)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeBob0318)
+- 🔭 I'm currently studying in SEL(Software Engineering Lab) of Zhejiang University, Member of Karmada, Reviewer of Sealer  
+
+- 🌱 I'm currently learning Kubernetes, Golang and Algorithm  
+
+- 👀 I'm interested in Cloud Native, Collocation, eBPF, Multi Cloud, AutoScaling, Scheduling
+
+- ⚡ Keep progressing  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SpongeBob0318&show_icons=true&count_private=true&hide_border=true" align="right"/>
+</div>  
+</td></tr></table>   
+
+
+
+  
