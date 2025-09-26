@@ -17,7 +17,7 @@
 - ⚡  Java & Python & C++ & Java & Go
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SpongeBob0318&show_icons=true&count_private=true&hide_border=true" align="right"/>
