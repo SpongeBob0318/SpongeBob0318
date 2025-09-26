@@ -12,7 +12,7 @@
 
 - 👀 I'm interested in photography, cycling, and badminton
 
-- 👨‍🔬 [ISFP](https://www.16personalities.com/infj-personality) personality
+- 👨‍🔬 [ISFP](https://www.16personalities.com/isfp-personality) personality
 
 - ⚡  Java & Python & C++ & Java & Go
 
